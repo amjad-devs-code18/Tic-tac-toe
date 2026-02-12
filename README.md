@@ -14,10 +14,10 @@ This app allows two players to play the classic game with automatic winner and d
 ![Game Screen](assets/game.png)
 
 ### 🏗️ Android Production Build (AAB Generated)
-![Build Screenshot](assets/Android Play store.jpeg)
+!![Build Screenshot](assets/android-play-store.jpeg)
 
 ### 📊 EAS Build Logs
-![Build Logs](assets/play game.jpeg)
+![Build Logs](assets/play-game.jpeg)
 
 ---
 
